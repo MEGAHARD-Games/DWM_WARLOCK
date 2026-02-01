@@ -6,6 +6,9 @@ Your chickens have escaped, so you must catch them again!
 But watch out! There is a fox on the hunt for them as well!
 Press `Space` to swat your net...
 
+## [»Download here«](../../releases/latest)
+Available for _Linux_ and _Windows_.
+
 ## Credits
 _Developed by **Megahard**_ using the [Processing](https://processing.org/) Framework.  
 ![](.github/readme_assets/MegahardLogoCard.png)
